@@ -1,0 +1,58 @@
+MIT License
+
+Copyright (c) 2024 Smart Farm Monitoring System
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+================================================================================
+
+Third-Party Libraries and Dependencies:
+
+1. GLFW (https://www.glfw.org/)
+   Licensed under the zlib/libpng license
+   Copyright (c) 2002-2006 Marcus Geelnard
+   Copyright (c) 2006-2019 Camilla Löwy
+
+2. GLEW (http://glew.sourceforge.net/)
+   Licensed under the Modified BSD License, the Mesa 3-D License (MIT) and the Khronos License (MIT)
+   Copyright (C) 2002-2007, Milan Ikits <milan ikits[]ieee org>
+   Copyright (C) 2002-2007, Marcelo E. Magallon <mmagallo[]debian org>
+
+3. GLM (https://glm.g-truc.net/)
+   Licensed under The Happy Bunny License or MIT License
+   Copyright (c) 2005 - G-Truc Creation
+
+================================================================================
+
+Agricultural Models and Algorithms:
+
+This software incorporates agricultural and plant growth models based on 
+scientific research and publications. Where applicable, proper attribution 
+is provided in the source code comments and documentation.
+
+================================================================================
+
+Additional Notes:
+
+- This software is intended for educational, research, and commercial use
+- Users are responsible for compliance with local laws and regulations
+- The authors provide no warranty for fitness in any particular agricultural application
+- Commercial support and licensing options are available upon request
+
+For questions about licensing, please contact: license@smartfarm.com
